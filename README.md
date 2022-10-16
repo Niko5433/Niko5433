@@ -24,10 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niko5433&show_icons=true&locale=en&layout=compact" alt="niko5433" /></p>
 
-
-
-## Github Stats
+<h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niko5433&show_icons=true&locale=en" alt="niko5433" /></p>
 
-## Streak Stats
+<h3 align="left">Streak Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niko5433&" alt="niko5433" /></p>
