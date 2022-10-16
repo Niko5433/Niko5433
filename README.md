@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://ucscextension-live-28cd95cf77884d15bb06-01c17c1.divio-media.net/images/java-programmin-for-beginner.2e16d0ba.fill-2400x858-c100.jpg" width="1500" height="350" />
+<img align="center" alt="GIF" src="https://ucscextension-live-28cd95cf77884d15bb06-01c17c1.divio-media.net/images/java-programmin-for-beginner.2e16d0ba.fill-2400x858-c100.jpg" width="1500" height="250" />
 
 <h1 align="center">Hello world 👋, I'm Nicko</h1>
 <h3 align="center">A passionate future developer from Bulgaria</h3>
