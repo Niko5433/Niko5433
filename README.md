@@ -3,7 +3,7 @@
 <h1 align="center">Hello world 👋, I'm Nicko</h1>
 <h3 align="center">A passionate future developer from Bulgaria</h3>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/106319618/195994303-6a61dc70-3630-4598-87c0-7bf88b2553ac.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/106319618/195994303-6a61dc70-3630-4598-87c0-7bf88b2553ac.gif" width="400" height="250" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niko5433&label=Profile%20views&color=0e75b6&style=flat" alt="niko5433" /> </p>
 
