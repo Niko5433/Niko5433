@@ -22,10 +22,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niko5433&show_icons=true&locale=en&layout=compact" alt="niko5433" /></p>
-
-<h3 align="left">Github Stats:</h3>
+## Github Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niko5433&show_icons=true&locale=en" alt="niko5433" /></p>
 
-<h3 align="left">Streak Stats:</h3>
+## Streak Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niko5433&" alt="niko5433" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niko5433&show_icons=true&locale=en&layout=compact" alt="niko5433" /></p>
+
